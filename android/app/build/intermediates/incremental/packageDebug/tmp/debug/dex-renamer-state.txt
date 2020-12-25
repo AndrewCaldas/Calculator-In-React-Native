@@ -1,0 +1,4 @@
+#Fri Dec 25 17:22:20 BRT 2020
+base.0=/Users/Andrew.Aguiar@ibm.com/Documents/Udemy/React Native/Calculator-In-React-Native/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
