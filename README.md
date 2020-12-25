@@ -1,7 +1,7 @@
 # Calculator-In-React-Native
 Simple calculator based on the Macbook calculator, made with the React Native framework and the programming language: Javascript.
 
-* After cloning, install node-modules
+# After cloning, install node-modules
 npm install
 
 # Look for an existing Android emulator to run the project
